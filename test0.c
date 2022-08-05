@@ -2,5 +2,5 @@
 
 void main(void){
 
-printf("Hello GCC!!!!!");
+printf("Hello world!!!!!");
 }
